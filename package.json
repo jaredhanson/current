@@ -1,0 +1,30 @@
+{
+  "name": "current",
+  "version": "0.0.0",
+  "description": "HTTP middleware framework for Anchor.js.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/current.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jaredhanson/current/issues"
+  },
+  "author": {
+    "name": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "http://www.jaredhanson.net/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "main",
+  "amd": {},
+  "volo": {
+    "dependencies": {
+      "anchor": "github:anchorjs/class"
+    }
+  }
+}
